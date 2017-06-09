@@ -5,7 +5,7 @@ prospectus_puppet
 [![Dependency Status](https://img.shields.io/gemnasium/akerl/prospectus_puppet.svg)](https://gemnasium.com/akerl/prospectus_puppet)
 [![Build Status](https://img.shields.io/circleci/project/akerl/prospectus_puppet.svg)](https://circleci.com/gh/akerl/prospectus_puppet)
 [![Coverage Status](https://img.shields.io/codecov/c/github/akerl/prospectus_puppet.svg)](https://codecov.io/github/akerl/prospectus_puppet)
-[![Code Quality](https://img.shields.io/codacy/c5623564a4034ece993510d28edb19de.svg)](https://www.codacy.com/app/akerl/prospectus_puppet)
+[![Code Quality](https://img.shields.io/codacy/1509c0d147124ec4a861ed7ad220b2e0.svg)](https://www.codacy.com/app/akerl/prospectus_puppet)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 [Prospectus](https://github.com/akerl/prospectus) helpers for checking puppet build status
