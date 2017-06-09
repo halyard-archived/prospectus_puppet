@@ -19,7 +19,7 @@ Add the following 2 lines to the .prospectus:
 Prospectus.extra_dep('file', 'prospectus_puppet')
 
 ## Add this inside your item that has a build
-extend Prospectuspuppet.build('ORG/REPO')
+extend ProspectusPuppet::Deps
 ```
 
 ## Installation
