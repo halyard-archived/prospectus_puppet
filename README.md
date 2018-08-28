@@ -2,7 +2,7 @@ prospectus_puppet
 =========
 
 [![Gem Version](https://img.shields.io/gem/v/prospectus_puppet.svg)](https://rubygems.org/gems/prospectus_puppet)
-[![Build Status](https://img.shields.io/circleci/project/halyard/prospectus_puppet.svg)](https://circleci.com/gh/halyard/prospectus_puppet)
+[![Build Status](https://img.shields.io/travis/com/halyard/prospectus_puppet.svg)](https://travis-ci.com/halyard/prospectus_puppet)
 [![Coverage Status](https://img.shields.io/codecov/c/github/halyard/prospectus_puppet.svg)](https://codecov.io/github/halyard/prospectus_puppet)
 [![Code Quality](https://img.shields.io/codacy/1509c0d147124ec4a861ed7ad220b2e0.svg)](https://www.codacy.com/app/halyard/prospectus_puppet)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
