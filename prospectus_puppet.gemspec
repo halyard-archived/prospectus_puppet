@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description = 'Prospectus helpers for puppet'
   s.authors     = ['Les Aker']
   s.email       = 'me@lesaker.org'
-  s.homepage    = 'https://github.com/amylum/prospectus_puppet'
+  s.homepage    = 'https://github.com/halyard/prospectus_puppet'
   s.license     = 'MIT'
 
   s.files       = `git ls-files`.split
