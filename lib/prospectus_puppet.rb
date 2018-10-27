@@ -1,8 +1,8 @@
 require 'json'
 
 module ProspectusPuppet
-  DEP_REGEX = /^(\d+\.\d+)\.\d+$/
-  DEP_FILTER = /^\d+\.\d+.\d+$/
+  DEP_REGEX = /^(\d+\.\d+)\.\d+$/.freeze
+  DEP_FILTER = /^\d+\.\d+.\d+$/.freeze
 
   ##
   # Helper for automatically adding Puppet deps
